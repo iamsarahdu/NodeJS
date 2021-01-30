@@ -1,1 +1,1 @@
-This is a README file of NodeJS project.
+This is a README file of NodeJS project. I will be typing be coding NodeJS.
